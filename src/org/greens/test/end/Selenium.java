@@ -12,7 +12,7 @@ public class Selenium {
 	}
 	public void frameWork() {
 		// TODO Auto-generated method stub
-		System.out.println("testing");
+		System.out.println("tested");
 
 	}
 	public static void main(String[] args) {
